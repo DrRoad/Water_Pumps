@@ -1,0 +1,7 @@
+/data/interim/X_test.csv
+/data/interim/X_train.csv
+/models/voting_clf_ens_soft.sav
+/models/voting_clf_ens_hard.sav
+/models/voting_clf_ens_rfxgb.sav
+/models/grid_search_rf.sav
+/grid_search_knn.sav
